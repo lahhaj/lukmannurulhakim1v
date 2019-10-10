@@ -1,6 +1,5 @@
 #jangan di jual
 #jangan di recod
-#jangan lupa nonton chenel yutub saya lukman heck
 white='\033[37;1m'
 purple='\033[35;1m'
 blue='\033[34;1m'
@@ -13,9 +12,9 @@ cyan='\033[36;1m'
 
 
 clear
-figlet Lukman heck|lolcat
+figlet SEKRIPT INI PUNYA LUKMAN|lolcat
 echo  ""
-echo "maker  : nama lu siapa ngentod "
+echo "maker  : nama kamu siapa mamank "
 echo "info 1 : 1 " |lolcat
 echo ""
 sleep 1
